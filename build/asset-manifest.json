@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2628be48.css",
+    "main.js": "/static/js/main.b5def56a.js",
+    "static/media/cronometro.png": "/static/media/cronometro.910ec1f0ccef27233284.png",
+    "index.html": "/index.html",
+    "main.2628be48.css.map": "/static/css/main.2628be48.css.map",
+    "main.b5def56a.js.map": "/static/js/main.b5def56a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2628be48.css",
+    "static/js/main.b5def56a.js"
+  ]
+}
