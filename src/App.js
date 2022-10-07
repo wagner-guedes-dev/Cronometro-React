@@ -20,7 +20,7 @@ class App extends Component{
       state.vai = 'Iniciar'
     }else{
       this.timer = setInterval( () => {
-        state.numero += 0.01
+        state.numero += 0.10
         this.setState(state)
       }, 100)
         state.vai='Pausar'
